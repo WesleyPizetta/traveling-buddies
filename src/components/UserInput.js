@@ -9,7 +9,7 @@ export default class UserInput extends Component {
            <Image source={this.props.source} style={styles.inlineImg} />
                 <TextInput
                     style={styles.input}
-                    textContentType="password"
+                    textContentType={this.props.textContentType}
                     placeholder={this.props.placeholder}
                     secureTextEntry={this.props.secureTextEntry}
                     autoCorrect={this.props.autoCorrect}
@@ -59,11 +59,11 @@ const styles = StyleSheet.create({
   });
   
 UserInput.propTypes = {
-    source: PropTypes.number.isRequired,
+    textContentType: PropTypes.string,
+    source: PropTypes.number,
     placeholder: PropTypes.string.isRequired,
     secureTextEntry: PropTypes.bool,
     autoCorrect: PropTypes.bool,
     autoCapitalize: PropTypes.string,
     returnKeyType: PropTypes.string, 
-
 }
