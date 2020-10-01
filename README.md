@@ -49,7 +49,7 @@ $npm start or $expo start
 
 ## Notes :notebook:
 
-* Well, the project is not finished yet and we are using this to practice both our English and programming skills. So if you want to give us any tip or to make a constructive criticism, contact me us in our social media
+* Well, the project is not finished yet and we are using this to practice both our English and programming skills. So if you want to give us any tip or to make a constructive criticism, contact us in our social media
 
 ## Social Media :bust_in_silhouette:
 
