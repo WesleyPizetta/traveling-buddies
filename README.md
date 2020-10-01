@@ -20,7 +20,7 @@ Hey guys. In this repo we are just improving our React Native skills by trying t
 - [x] ~~Create Login Screen~~
 - [x] ~~Create Home Screen~~
 - [x] ~~Navigate between screens~~
-- [ ] Create a "Show Password" button on Login Screen
+- [x]  ̶C̶r̶e̶a̶t̶e̶ ̶a̶ ̶"̶S̶h̶o̶w̶ ̶P̶a̶s̶s̶w̶o̶r̶d̶"̶ ̶b̶u̶t̶t̶o̶n̶ ̶o̶n̶ ̶L̶o̶g̶i̶n̶ ̶S̶c̶r̶e̶e̶n̶
 - [ ] Use Animations
 
 * Note: this project is in progress, not finished yet
