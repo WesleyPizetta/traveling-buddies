@@ -1,6 +1,6 @@
 # Wizebin App :truck:
 
-Hey guys. In this repo we are just improving my React Native skills by trying to build an app.
+Hey guys. In this repo we are just improving our React Native skills by trying to build an app.
 
 ## Table of Contents
 
