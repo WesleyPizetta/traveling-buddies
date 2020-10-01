@@ -1,6 +1,6 @@
 # Wizebin App :truck:
 
-Hey guys. In this repo I am just improving my React Native skills by trying to build an app. I am also using Firebase to storage the data and to authenticate my users.
+Hey guys. In this repo we are just improving my React Native skills by trying to build an app.
 
 ## Table of Contents
 
@@ -13,8 +13,7 @@ Hey guys. In this repo I am just improving my React Native skills by trying to b
 
 ## Screenshots :camera:
 
-![login](login-page.jpg)
-![home](home-page.jpg)
+![login](login-screen.jpg)
 
 ## To Do :pushpin:
 
@@ -53,7 +52,7 @@ $npm start or $expo start
 
 ## Notes :notebook:
 
-* Well, the project is not finished yet and I am using this to practice both my English and programming skills. So if you want to give me any tip or contact me to make a constructive criticism, contact me on my social media
+* Well, the project is not finished yet and we are using this to practice both our English and programming skills. So if you want to give us any tip or to make a constructive criticism, contact me us in our social media
 
 ## Social Media :bust_in_silhouette:
 
