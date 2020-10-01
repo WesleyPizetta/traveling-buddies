@@ -13,16 +13,13 @@ Hey guys. In this repo we are just improving my React Native skills by trying to
 
 ## Screenshots :camera:
 
-![login](login-screen.jpg)
+![login](login-screen.png)
 
 ## To Do :pushpin:
 
 - [x] ~~Create Login Screen~~
 - [x] ~~Create Home Screen~~
-- [ ] Create "Rotas" Screen
-- [ ] Add an action to the "Sync" button
 - [x] ~~Navigate between screens~~
-- [ ] Implement Firebase auth
 - [ ] Create a "Show Password" button on Login Screen
 - [ ] Use Animations
 
